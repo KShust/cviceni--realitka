@@ -1,7 +1,7 @@
 import { render } from '@czechitas/render';
 import '../global.css';
 import './index.css';
-import { Header } from '../components/header/header';
+import { Header } from '../components/Header/header';
 import { Estate } from '../components/Estate/estate';
 
 const stranka = window.location.pathname 
